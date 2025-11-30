@@ -4,9 +4,9 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // Set base to your repo name for GitHub Pages (e.g., '/uwc-application-portal/')
-  // Leave as '/' if deploying to a custom domain or root
-  base: '/uwc-application-portal/',
+  // Set base to your repo name for GitHub Pages
+  // Must match exactly (case-sensitive): /REPO-NAME/
+  base: '/UWC-Application-Portal/',
   plugins: [react()],
   resolve: {
     alias: {
