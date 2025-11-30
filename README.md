@@ -80,9 +80,9 @@ src/
 
 ## 🌐 Live Demo
 
-Visit the live application: **[UWC Application Portal](https://YOUR_USERNAME.github.io/uwc-application-portal/)**
+Visit the live application: **[UWC Application Portal](https://abdurrageem.github.io/UWC-Application-Portal/)**
 
-*(Update this link after deploying to GitHub Pages)*
+
 
 ---
 
