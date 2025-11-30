@@ -162,7 +162,7 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
       <div className="p-4">
         <Link to="/" className="flex items-start gap-3" onClick={onClose}>
           <img 
-            src="/uwc-logo.jpg" 
+            src={`${import.meta.env.BASE_URL}uwc-logo.jpg`}
             alt="University of the Western Cape Logo" 
             className="w-32 h-32 object-contain flex-shrink-0"
           />
